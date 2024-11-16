@@ -26,4 +26,4 @@
 
 ## 📈 この拡張機能で、ウェブブラウジングの効率をアップさせましょう！
 
-> **Feedback** や **Contributions** を歓迎しています！何かご意見があればお気軽に [Issues](https://github.com/yourusername/rich-copy-link-title/issues) までお知らせください。
+> **Feedback** や **Contributions** を歓迎しています！何かご意見があればお気軽に [Issues](https://github.com/koji9412/rich-copy-link-title/issues) までお知らせください。
